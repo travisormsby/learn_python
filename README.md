@@ -1,5 +1,3 @@
 # learn_python
 
-The goal of this repo is to hold a series of Jupyter Notebooks to help people learn about how to use Python.  You can open these notebooks interactively online using Binder by following the link below.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/travisormsby/learn_python/master)
+The goal of this repo is to hold a series of Jupyter Notebooks to help people learn about how to use Python.  The intended audience is GIS users who want to automate their workflows. The easiest way to run these notebooks is to [add them to an ArcGIS Pro project](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/pro-notebooks.htm).
