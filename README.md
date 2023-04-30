@@ -8,8 +8,8 @@ The file names indicate the suggested order for working through these notebooks.
 
 * 00-Types: Identify the basic ways Python treats information
 * 01-ArcPy: Use ArcGIS Pro to create geoprocessing code snippets automatically
-* 02-Describe: Access information about workspaces, geodatabases, feature classes, and more. (coming soon)
-* 03-Loops: Repeat the same process over and over for different input data. (coming soon)
+* 02-Describe: Access information about workspaces, geodatabases, feature classes, and more.
+* 03-Loops: Repeat the same process over and over for different input data.
 * 04-DataEngineering: Turn raw input data into something you can actually use. (coming soon)
 * 05-Portal: Interact with content in your ArcGIS Online or ArcGIS Enterprise portal. (coming soon)
 
